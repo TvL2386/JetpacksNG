@@ -17,4 +17,6 @@ I've gained a lot of inspiration and copied code from the following mods:
 
 Their licenses allowed this and I'm hoping I haven't made any mistakes here!
 
-
+###Future features
+- Jetpack sound
+- Jetpack particles
