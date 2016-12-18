@@ -1,0 +1,5 @@
+------------------------------------------------------
+Version 0.0.0.2
+------------------------------------------------------
+New
+- Added a HUD component to the upper left to show a Fuel remaining bar
