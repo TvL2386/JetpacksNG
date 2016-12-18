@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jetpacksng",
+  "name": "JetpacksNG",
+  "description": "My first mod! Mainly practice and I missed SimplyJetpacks for 1.10.2",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tom van Leeuwen"],
+  "credits": "Heavily inspired by SimplyJetpacks, EnderIO and many others",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
