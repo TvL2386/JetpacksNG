@@ -17,7 +17,7 @@ import tvl2386.jetpacksng.server.ServerProxy;
 public class JetpacksNG {
     public static final String MODID = "jetpacksng";
     public static final String MODNAME = "JetpacksNG";
-    public static final String MODVERSION = "1.10.2-0.0.0.1";
+    public static final String MODVERSION = "1.10.2-0.0.0.2";
     public static final String RESOURCE_PREFIX = MODID + ":";
 
     public static final CreativeTabs CREATIVE_TAB = new CreativeTabs(MODNAME) {
